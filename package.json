@@ -1,0 +1,24 @@
+{
+  "name": "log-reader",
+  "version": "0.0.0",
+  "description": "read text-based log files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mapbox/log-reader.git"
+  },
+  "keywords": [
+    "log",
+    "file",
+    "read",
+    "stream"
+  ],
+  "author": "Jeff Miccolis",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/mapbox/log-reader/issues"
+  }
+}
